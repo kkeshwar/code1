@@ -4,7 +4,7 @@ public class Employee
 	int ecode;
 	public Employee()
 	{
-	ename="K.Nikitha";
+	ename="K.Kartik";
 	ecode=1852;
 	}
 	public void disp()
